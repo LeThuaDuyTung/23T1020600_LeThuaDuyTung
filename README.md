@@ -297,3 +297,7 @@ Không.
 Điểm chỉ được thay đổi trong biến `STUDENTS` đang lưu trong bộ nhớ RAM. Khi server được khởi động lại, chương trình chạy lại từ đầu và biến `STUDENTS` được tạo lại từ dữ liệu ban đầu trong file `sodiem.py`.
 
 Ứng dụng chưa sử dụng cơ sở dữ liệu hoặc file để lưu thay đổi nên điểm mới không được lưu vĩnh viễn.
+
+## 4. Hoàn tất
+
+Đã kiểm thử các chức năng Web, API và xử lý lỗi của ứng dụng.
